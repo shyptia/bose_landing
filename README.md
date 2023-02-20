@@ -18,8 +18,8 @@ Landing for the BOSE company. You can see several sections with products and pro
 ### Instructions how to run application locally:
 
 1. Use 14 version of node.js.
-2. Clone the repository to your local machine, open terminal and clone repo.
-3. Open project in terminal.
+2. Clone the repository to your local machine.
+3. Open terminal in the project.
 4. Set up project and install necessary packages:
 ```bash 
 npm install
